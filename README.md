@@ -1,4 +1,4 @@
-# FRIDAY-USERBOT
+# EDITH - USERBOT
 
 <p align="center">
 <img src="https://telegra.ph/file/22535f8051a58af113586.jpg" alt="FRIDAY USERBOT">
@@ -11,21 +11,16 @@
 Best User Bot To Manage Your Telegram Account 
 ## Most PowerFul And Better And Secure
 
-## © By Team #SᴛᴀʀᴋGᴀɴɢ™
+## © By Chris Carlo
 
 ### For any query or want to know how it works join Group And Channel 
 
-<a href="https://t.me/FridaySupportOfficial"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/fridayOT"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
-
-## HOW TO DEPLOY 
-
-<a href="https://youtu.be/xfHcm_e92eQ"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
-
+<a href="https://t.me/TGXTECH"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/TGXTECHGROUP"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ### Host Friday In Heroku
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/StarkGang/FridayUserbot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Chris-Carlo/EDITH)
 
 ## Telegram-String
 
@@ -78,12 +73,3 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
     - `APP_ID`:   You can get this value from https://my.telegram.org
     - `API_HASH`:   You can get this value from https://my.telegram.org
 - The userbot will not work without setting the mandatory vars.
-
-## Credits 
-```- Thanks To All Contributers For This Project 
-- $ Full Repo - X-Tra Telegram 
-- $ Lyrics Plugin // Inline Fix - @MrConfused
-- $ Sudo Credits - Uniborg , @MrConfused
-- $ Some Bug Fixes - @Adarsh_xD , @Aid_3n, @Sur_vivor, @Everythingsuckz, @PureindiaLover 
-
-Check More Contribution At https://github.com/StarkGang/FridayUserbot/graphs/contributors
